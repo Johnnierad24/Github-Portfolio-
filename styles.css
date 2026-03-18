@@ -28,6 +28,11 @@ body {
   min-height: 100vh;
   line-height: 1.7;
   padding: 0 20px 80px;
+  overflow-x: hidden;
+}
+
+body.menu-open {
+  overflow: hidden;
 }
 
 .grid-bg {
@@ -52,6 +57,7 @@ body {
   backdrop-filter: blur(12px);
   background: rgba(11, 17, 26, 0.65);
   z-index: 10;
+  gap: 12px;
 }
 
 .logo {
@@ -90,6 +96,41 @@ nav a:hover {
 nav .pill {
   border: 1px solid var(--border);
   background: rgba(255, 255, 255, 0.05);
+}
+
+.nav-toggle {
+  display: none;
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.04);
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex-direction: column;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.nav-toggle span {
+  width: 100%;
+  height: 2px;
+  background: var(--text);
+  border-radius: 4px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.menu-open .nav-toggle span:nth-child(1) {
+  transform: translateY(5px) rotate(45deg);
+}
+
+.menu-open .nav-toggle span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-open .nav-toggle span:nth-child(3) {
+  transform: translateY(-5px) rotate(-45deg);
 }
 
 main {
@@ -436,11 +477,35 @@ main {
 
 @media (max-width: 920px) {
   .site-header {
-    position: static;
-    padding-top: 24px;
+    position: sticky;
+    padding-top: 16px;
   }
   .hero {
     grid-template-columns: 1fr;
+  }
+  nav {
+    position: absolute;
+    top: 72px;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 10px 14px;
+    background: rgba(11, 17, 26, 0.95);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    flex-direction: column;
+    display: none;
+  }
+  nav.open {
+    display: flex;
+  }
+  nav a {
+    width: 100%;
+    padding: 12px;
+  }
+  .nav-toggle {
+    display: inline-flex;
   }
 }
 
