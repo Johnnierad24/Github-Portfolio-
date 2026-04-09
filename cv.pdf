@@ -3,7 +3,7 @@
 2 0 obj <</Type /Pages /Count 1 /Kids [3 0 R]>> endobj
 3 0 obj <</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources <</Font <</F1 4 0 R>>>> /Contents 5 0 R>> endobj
 4 0 obj <</Type /Font /Subtype /Type1 /BaseFont /Helvetica>> endobj
-5 0 obj <</Length 4178>> stream
+5 0 obj <</Length 4823>> stream
 BT
 /F1 18 Tf
 50 760 Td
@@ -19,7 +19,7 @@ BT
 (Career Objective) Tj
 /F1 12 Tf
 50 691.1999999999999 Td
-(Junior Software Developer with two years building and shipping responsive web and mobile apps. Passionate about scalable, accessible products across web and Android; open to full-time or contract roles in software development.) Tj
+(Junior Software Developer with hands-on experience designing, developing, and deploying responsive web and mobile applications. Passionate about scalable digital solutions and seeking an entry-level Software Development role to apply skills in full-stack development, UI/UX design, and system deployment.) Tj
 /F1 14 Tf
 50 675.1999999999999 Td
 (Technical Skills) Tj
@@ -31,97 +31,100 @@ BT
 (Frameworks: React, React Native, Django, Flutter, Node.js) Tj
 /F1 12 Tf
 50 625.9999999999999 Td
-(Practices: Responsive Web Design, UI/UX, Testing & Debugging, Deployment) Tj
+(Web: Responsive Web Design, Frontend Development, UI/UX Design, Website Deployment, Testing & Debugging) Tj
 /F1 12 Tf
 50 609.9999999999999 Td
-(Platforms/Tools: Vercel, MongoDB, VS Code, Twilio API, Home Assistant) Tj
+(Tools/Platforms: Vercel Deployment, MongoDB, Visual Studio Code, Twilio API, Home Assistant \\(IoT\\)) Tj
 /F1 14 Tf
 50 593.9999999999999 Td
-(Selected Projects) Tj
+(Software Development Projects) Tj
 /F1 12 Tf
 50 576.7999999999998 Td
-(Smart Health Reminder App - Mobile health reminders with notifications and tracking \\(GitHub\\).) Tj
+(Freelance Web Developer \\(collaborative projects\\) — built and deployed responsive websites with a partner.) Tj
 /F1 12 Tf
 50 560.7999999999998 Td
-(Accessible Campus Assistant - Accessibility-first campus companion app \\(GitHub\\).) Tj
+(1\\) Elite Entertainment Platform — Responsive booking platform; modern UI/UX; Vercel deploy.) Tj
 /F1 12 Tf
 50 544.7999999999998 Td
-(Pacely Pace & Distance Planner - Pace/distance/time calculators and split projections \\(Google Play\\).) Tj
+(2\\) Laundry Room Kenya — Business site; mobile/desktop responsive; performance-optimized.) Tj
 /F1 12 Tf
 50 528.7999999999998 Td
-(Shop Easy - E-commerce Android shopping flows and product discovery \\(Google Play\\).) Tj
+(3\\) Anne Academic Solutions — Academic services platform with structured navigation.) Tj
 /F1 12 Tf
 50 512.7999999999998 Td
-(Luxury Shuttles Mobile App - Ongoing build with Tech Patron \\(mobile\\).) Tj
+(4\\) New Moon Mobilities — Corporate mobility website focused on accessibility and brand.) Tj
 /F1 12 Tf
 50 496.79999999999984 Td
-(Elite Entertainment Platform - Entertainment booking platform \\(live\\).) Tj
+(5\\) Dawn Gadgets — Gadget showcase with product display components.) Tj
 /F1 12 Tf
 50 480.79999999999984 Td
-(Laundry Room Kenya - Responsive business site \\(live\\).) Tj
+(6\\) Pacely Pace & Distance Planner \\(2025, collaboration\\) — Android pace/distance planner with split projections, time/pace calculators, pace-zone guidance. Google Play live.) Tj
 /F1 12 Tf
 50 464.79999999999984 Td
-(Anne Academic Solutions - Academic services platform \\(live\\).) Tj
+(7\\) Shop Easy \\(2025, collaboration\\) — Android e-commerce app; product discovery and shopping flows. Google Play live.) Tj
 /F1 12 Tf
 50 448.79999999999984 Td
-(New Moon Mobilities - Corporate mobility website \\(live\\).) Tj
+(8\\) Smart Health Reminder App — Mobile health reminders with notifications and tracking \\(GitHub\\).) Tj
 /F1 12 Tf
 50 432.79999999999984 Td
-(Dawn Gadgets - Gadget showcase \\(live\\).) Tj
-/F1 14 Tf
+(9\\) Accessible Campus Assistant — Accessibility-first campus companion app \\(GitHub\\).) Tj
+/F1 12 Tf
 50 416.79999999999984 Td
+(10\\) Luxury Shuttles Mobile App — Ongoing build with Tech Patron \\(mobile\\).) Tj
+/F1 14 Tf
+50 400.79999999999984 Td
 (Professional Experience) Tj
 /F1 12 Tf
-50 399.59999999999985 Td
-(Mobile App Developer · Tech Patron \\(Present\\) - Leading Luxury Shuttles mobile app; product, UX, delivery.) Tj
-/F1 12 Tf
 50 383.59999999999985 Td
-(Collaborator · Pacely Pace & Distance Planner \\(2025\\) - Android run-planning tools, splits, projections.) Tj
+(Mobile App Developer · Tech Patron \\(Present\\) — Leading Luxury Shuttles mobile app; product, UX, delivery.) Tj
 /F1 12 Tf
 50 367.59999999999985 Td
-(Collaborator · Shop Easy \\(2025\\) - Android e-commerce app, shopping flows, discovery.) Tj
+(Collaborator · Pacely Pace & Distance Planner \\(2025\\) — Run-planning tools, splits, projections.) Tj
 /F1 12 Tf
 50 351.59999999999985 Td
-(ICT Attachment · ICT Authority, Nyeri County \\(Aug-Nov 2024\\) - User support, installs, maintenance.) Tj
+(Collaborator · Shop Easy \\(2025\\) — E-commerce app features; shopping flows and discovery.) Tj
 /F1 12 Tf
 50 335.59999999999985 Td
-(ICT Attachment · ICT Authority, Tharaka Nithi County \\(Sep-Dec 2023\\) - Systems maintenance and support.) Tj
+(ICT Attachment · ICT Authority, Nyeri County \\(Aug–Nov 2024\\) — User support, installs, maintenance.) Tj
 /F1 12 Tf
 50 319.59999999999985 Td
-(Courier Management System · Luxury Shuttles - Design, testing, deployment, user training for parcel tracking.) Tj
-/F1 14 Tf
+(ICT Attachment · ICT Authority, Tharaka Nithi County \\(Sep–Dec 2023\\) — Systems maintenance and support.) Tj
+/F1 12 Tf
 50 303.59999999999985 Td
+(Courier Management System · Luxury Shuttles — Design, testing, deployment, user training for parcel tracking.) Tj
+/F1 14 Tf
+50 287.59999999999985 Td
 (Education) Tj
 /F1 12 Tf
-50 286.39999999999986 Td
+50 270.39999999999986 Td
 (Currently pursuing Degree in Information Technology.) Tj
 /F1 12 Tf
-50 270.39999999999986 Td
-(Diploma in ICT, The Nyeri National Polytechnic \\(Sep 2022 - Jul 2025\\), Distinction.) Tj
-/F1 12 Tf
 50 254.39999999999986 Td
-(Cisco: Get Connected; Introduction to Cybersecurity; IoT Fundamentals - Connecting Things.) Tj
+(Diploma in Information Communication and Technology — The Nyeri National Polytechnic \\(Sep 2022 – Jul 2025\\), Distinction.) Tj
 /F1 12 Tf
 50 238.39999999999986 Td
-(German Language A1 - Certified \\(Avg 61%\\).) Tj
+(Cisco: Get Connected; Introduction to Cybersecurity; IoT Fundamentals – Connecting Things.) Tj
 /F1 12 Tf
 50 222.39999999999986 Td
-(KCSE, Baricho High School - 2021, Mean Grade B- \\(AGP 55\\).) Tj
-/F1 14 Tf
+(German Language A1 — Certified \\(Avg 61%\\).) Tj
+/F1 12 Tf
 50 206.39999999999986 Td
+(KCSE — Baricho High School, 2021; Mean Grade B- \\(AGP 55\\).) Tj
+/F1 14 Tf
+50 190.39999999999986 Td
 (Languages) Tj
 /F1 12 Tf
-50 189.19999999999987 Td
+50 173.19999999999987 Td
 (English \\(Fluent\\), Kiswahili \\(Fluent\\), German \\(Basic A1\\).) Tj
 /F1 14 Tf
-50 173.19999999999987 Td
+50 157.19999999999987 Td
 (Referees) Tj
 /F1 12 Tf
-50 155.9999999999999 Td
-(Mr. Julius Musembi - County ICT Coordinator, ICT Authority Nyeri County · 0717672023) Tj
-/F1 12 Tf
 50 139.9999999999999 Td
-(Mr. Julius Nyanjui - County ICT Officer, ICT Authority Tharaka Nithi County · 0724887541) Tj
+(Mr. Julius Musembi — County ICT Coordinator, ICT Authority Nyeri County · 0717672023) Tj
+/F1 12 Tf
+50 123.99999999999989 Td
+(Mr. Julius Nyanjui — County ICT Officer, ICT Authority Tharaka Nithi County · 0724887541) Tj
 ET
 endstream endobj
 xref
@@ -134,8 +137,8 @@ xref
 0000000231 00000 n 
 0000000299 00000 n 
 0000000331 00000 n 
-0000004510 00000 n 
+0000005155 00000 n 
 trailer <</Size 6 /Root 1 0 R>>
 startxref
-4527
+5172
 %%EOF
