@@ -18,6 +18,40 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+  /* Offset anchor jumps so headings aren't hidden under the sticky header */
+  scroll-padding-top: 90px;
+}
+
+/* Accessible skip link — visible only on keyboard focus */
+.skip-link {
+  position: absolute;
+  left: 12px;
+  top: -60px;
+  z-index: 50;
+  padding: 10px 14px;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #0b111a;
+  font-weight: 700;
+  text-decoration: none;
+  transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+  top: 12px;
+  outline: 2px solid var(--accent-2);
+  outline-offset: 2px;
+}
+
+/* Visible focus ring for keyboard users */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 2px;
+}
+
 body {
   margin: 0;
   font-family: "Space Grotesk", "Manrope", system-ui, -apple-system, sans-serif;
@@ -522,5 +556,40 @@ main {
   }
   .timeline__item {
     grid-template-columns: 1fr;
+  }
+  .panel {
+    padding: 20px 16px;
+  }
+}
+
+/* Very small phones — tighten spacing and let CTAs use full width for easier taps */
+@media (max-width: 420px) {
+  .panel__header h2,
+  .hero__text h1 {
+    word-break: break-word;
+  }
+  .cta-row .btn {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+  .site-footer {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

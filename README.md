@@ -6,7 +6,7 @@ Static, single-page portfolio showcasing projects, skills, and experience. Built
 
 1. Open `index.html` in your browser (double-click or `python -m http.server 8000` then visit `http://localhost:8000`).
 2. Edit `styles.css` for styling tweaks and `index.html` to change content.
-3. Replace `portrait.png` with your own photo (same filename) if desired.
+3. Replace `portrait.jpg` with your own photo (same filename) if desired.
 4. Drop your PDF resume as `cv.pdf` in the project root to keep the download buttons working.
 
 ## Deploy
